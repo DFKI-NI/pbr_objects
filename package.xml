@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>hybrit_objects</name>
+  <name>pbr_objects</name>
   <version>0.0.0</version>
   <description>
-    Mesh models etc. for the physical objects used in Hybr-iT.
+    Mesh models etc. for the physical objects used in the PBR group.
   </description>
 
   <maintainer email="martin.guenther@dfki.de">Martin Günther</maintainer>
