@@ -1,0 +1,4 @@
+{
+  "symmetries_continuous": [{"axis": [1, 0, 0], "offset": [0, 0, 0]}],
+  "align_axes": [{"object": [0, 1, 0], "camera": [0, 0, 1]}]
+}
