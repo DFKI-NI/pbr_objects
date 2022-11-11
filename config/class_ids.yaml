@@ -1,0 +1,16 @@
+class_ids: {
+    "cracker": 103,                # YCB object 003
+    "sugar":   104,                # YCB object 004
+    "soup":    105,                # YCB object 005
+    "mustard": 106,                # YCB object 006
+    "gelatin": 109,                # YCB object 009
+    "meat":    110,                # YCB object 010
+    "bleach":  121,                # YCB object 021
+    #"power_drill":   2,            # ID widely used
+    "power_drill_with_grip":   2,  # same as power_drill, don't enable both...
+    "klt": 6,
+    "multimeter": 7,
+    "relay": 8,
+    "screwdriver": 9,
+    "materialbox": 10,
+}
