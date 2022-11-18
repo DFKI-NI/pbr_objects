@@ -1,0 +1,9 @@
+# optional: if you provide a mesh of the object here, a mesh marker will be published for visualization in RViz
+meshes: {
+  "power_drill":              "package://mobipick_gazebo/meshes/power_drill.dae",
+  "power_drill_with_grip":    "package://mobipick_gazebo/meshes/power_drill_with_grip.dae",
+  "klt":                      "package://mobipick_gazebo/meshes/klt.dae",
+  "multimeter":               "package://mobipick_gazebo/meshes/multimeter.dae",
+  "relay":                    "package://mobipick_gazebo/meshes/relay.dae",
+  "screwdriver":              "package://mobipick_gazebo/meshes/screwdriver.dae"
+}
