@@ -1,0 +1,17 @@
+# optional: if you provide a mesh of the object here, a mesh marker will be published for visualization in RViz
+meshes: {
+  "cracker":                  "package://pbr_objects/meshes/003_cracker_box/003_cracker_box.obj",
+  "sugar":                    "package://pbr_objects/meshes/004_sugar_box/004_sugar_box.obj",
+  "soup":                     "package://pbr_objects/meshes/005_tomato_soup_can/005_tomato_soup_can.obj",
+  "mustard":                  "package://pbr_objects/meshes/006_mustard_bottle/006_mustard_bottle.obj",
+  "gelatin":                  "package://pbr_objects/meshes/009_gelatin_box/009_gelatin_box.obj",
+  "meat":                     "package://pbr_objects/meshes/010_potted_meat_can/010_potted_meat_can.obj",
+  "bleach":                   "package://pbr_objects/meshes/021_bleach_cleanser/021_bleach_cleanser.obj",
+  "power_drill":              "package://pbr_objects/meshes/power_drill/power_drill.obj",
+  "power_drill_with_grip":    "package://pbr_objects/meshes/power_drill_with_grip/power_drill_with_grip.obj",
+  "klt":                      "package://pbr_objects/meshes/klt/klt3147.obj",
+  "multimeter":               "package://pbr_objects/meshes/multimeter/multimeter.obj",
+  "relay":                    "package://pbr_objects/meshes/relay/relay.obj",
+  "screwdriver":              "package://pbr_objects/meshes/screwdriver/screwdriver.obj",
+  "materialbox":              "package://pbr_objects/meshes/materialbox/materialbox.obj",
+}
