@@ -1,0 +1,15 @@
+draw_colors: {
+    "cracker": [13, 255, 128],                    # green
+    "sugar":   [232, 222, 12],                    # yellow
+    "soup":    [255, 101, 0],                     # orange
+    "mustard": [217,12, 232],                     # magenta
+    "gelatin": [255, 255, 255],                   # white
+    "meat":    [0, 104, 255],                     # blue
+    "bleach":  [0, 104, 255],                     # blue
+    "power_drill_with_grip": [152, 78 , 163],     # violet
+    "klt": [232, 222, 12],                        # dark yellow
+    "multimeter": [0, 255, 255],                  # Aqua
+    "relay": [0, 255, 0],                         # Lime
+    "screwdriver": [255, 0, 255],                 # Fuchsia
+    "materialbox": [0, 0, 255],                   # Blue
+}
