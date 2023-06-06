@@ -14,4 +14,5 @@ meshes: {
   "relay":                    "package://pbr_objects/meshes/relay/relay.stl",
   "screwdriver":              "package://pbr_objects/meshes/screwdriver/screwdriver.stl",
   "materialbox":              "package://pbr_objects/meshes/materialbox/materialbox.stl",
+  "hot_glue_gun":             "package://pbr_objects/meshes/hot_glue_gun/hot_glue_gun.stl",
 }

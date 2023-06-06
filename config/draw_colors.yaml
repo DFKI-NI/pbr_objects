@@ -12,4 +12,5 @@ draw_colors: {
     "relay": [0, 255, 0],                         # Lime
     "screwdriver": [255, 0, 255],                 # Fuchsia
     "materialbox": [0, 0, 255],                   # Blue
+    "hot_glue_gun": [255, 20, 147],               # Deep Pink
 }

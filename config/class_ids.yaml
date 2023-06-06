@@ -13,4 +13,5 @@ class_ids: {
     "relay": 8,
     "screwdriver": 9,
     "materialbox": 10,
+    "hot_glue_gun": 11,
 }
