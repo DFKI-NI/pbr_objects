@@ -1,0 +1,7 @@
+# optional: provide a transform that is applied to the pose returned by DOPE
+model_transforms: {
+    "klt":                      [[ 0,  0,  1,  0],
+                                 [ 0, -1,  0,  0],
+                                 [ 1,  0,  0,  0],
+                                 [ 0,  0,  0,  1]],
+}
