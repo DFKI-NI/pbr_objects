@@ -14,5 +14,10 @@ class_ids: {
     "screwdriver": 9,
     "materialbox": 10,
     "hot_glue_gun": 11,
+    "red_part": 201,
+    "yellow_part": 202,
     "bright_green_part": 203,
+    "dark_green_part": 204,
+    "purple_part": 205,
+    "magenta_part": 206,
 }
