@@ -17,7 +17,7 @@ dimensions: {
     "hot_glue_gun": [ 16.4364, 17.7876, 5.2392 ],
     "red_part":          [23.00, 8.00, 0.65],
     "yellow_part":       [12.50, 9.30, 0.65],
-    "bright_green_part": [22.9955, 8.1265, 0.8650],
+    "bright_green_part": [23.00, 8.00, 0.65],
     "dark_green_part":   [24.00, 11.15, 0.25],
     "purple_part":       [14.00, 8.00, 0.65],
     "magenta_part":      [12.50, 9.30, 0.65],
