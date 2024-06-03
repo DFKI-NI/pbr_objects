@@ -13,5 +13,10 @@ draw_colors: {
     "screwdriver": [255, 0, 255],                 # Fuchsia
     "materialbox": [0, 0, 255],                   # Blue
     "hot_glue_gun": [255, 20, 147],               # Deep Pink
-    "bright_green_part": [252, 84, 255],          # Magenta/Fuchsia (inverted real color)
+    "red_part":          [ 68, 225, 239],         # cyan (inverted real color)
+    "yellow_part":       [  8,  74, 255],         # blue (inverted real color)
+    "bright_green_part": [252,  84, 255],         # magenta/fuchsia (inverted real color)
+    "dark_green_part":   [224, 152, 204],         # rose (inverted real color)
+    "purple_part":       [127, 215, 156],         # light bluish green (inverted real color)
+    "magenta_part":      [ 49, 185, 125],         # dark bluish green (inverted real color)
 }

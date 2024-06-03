@@ -15,5 +15,10 @@ meshes: {
   "screwdriver":              "package://pbr_objects/meshes/screwdriver/screwdriver.obj",
   "materialbox":              "package://pbr_objects/meshes/materialbox/materialbox.obj",
   "hot_glue_gun":             "package://pbr_objects/meshes/hot_glue_gun/hot_glue_gun.obj",
+  "red_part":                 "package://pbr_objects/meshes/insect_hotel/red_part/red_part.obj",
+  "yellow_part":              "package://pbr_objects/meshes/insect_hotel/yellow_part/yellow_part.obj",
   "bright_green_part":        "package://pbr_objects/meshes/insect_hotel/bright_green_part/bright_green_part.obj",
+  "dark_green_part":          "package://pbr_objects/meshes/insect_hotel/dark_green_part/dark_green_part.obj",
+  "purple_part":              "package://pbr_objects/meshes/insect_hotel/purple_part/purple_part.obj",
+  "magenta_part":             "package://pbr_objects/meshes/insect_hotel/magenta_part/magenta_part.obj",
 }
