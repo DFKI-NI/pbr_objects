@@ -22,4 +22,5 @@ meshes: {
   "purple_part":              "package://pbr_objects/meshes/insect_hotel/purple_part/purple_part.stl",
   "magenta_part":             "package://pbr_objects/meshes/insect_hotel/magenta_part/magenta_part.stl",
   "black_part":               "package://pbr_objects/meshes/insect_hotel/black_part/black_part.stl",
+  "orange_part":              "package://pbr_objects/meshes/insect_hotel/orange_part/orange_part.stl",
 }
