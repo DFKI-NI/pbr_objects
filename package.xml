@@ -15,5 +15,7 @@
   <buildtool_depend>ament_cmake</buildtool_depend>
   <export>
     <build_type>ament_cmake</build_type>
+    <!-- documentation available at: https://github.com/gazebosim/ros_gz/blob/jazzy/ros_gz_sim/README.md -->
+    <gazebo_ros gazebo_model_path="${prefix}/../"/>
   </export>
 </package>
