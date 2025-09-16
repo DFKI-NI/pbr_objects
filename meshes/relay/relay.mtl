@@ -10,7 +10,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd texture_map_flat.png
+map_Kd relay_albedo.png
 
 newmtl blue
 Ns 0.000000
@@ -21,7 +21,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd texture_map_flat.png
+map_Kd relay_albedo.png
 
 newmtl grey
 Ns 0.000000
@@ -32,4 +32,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd texture_map_flat.png
+map_Kd relay_albedo.png
