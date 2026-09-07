@@ -1,7 +1,10 @@
 # optional: if you provide a mesh of the object here, a mesh marker will be published for visualization in RViz
 meshes: {
+  "coke":                     "package://pbr_gazebo/models/coke_can_smaller/meshes/coke_can.dae",
+  "coke_can":                 "package://pbr_gazebo/models/coke_can_smaller/meshes/coke_can.dae",
   "cracker":                  "package://pbr_objects/meshes/003_cracker_box/003_cracker_box.stl",
   "sugar":                    "package://pbr_objects/meshes/004_sugar_box/004_sugar_box.stl",
+  "sugar_box":                "package://pbr_objects/meshes/004_sugar_box/004_sugar_box.stl",
   "soup":                     "package://pbr_objects/meshes/005_tomato_soup_can/005_tomato_soup_can.stl",
   "mustard":                  "package://pbr_objects/meshes/006_mustard_bottle/006_mustard_bottle.stl",
   "gelatin":                  "package://pbr_objects/meshes/009_gelatin_box/009_gelatin_box.stl",
